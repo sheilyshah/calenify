@@ -1,1 +1,1 @@
-Calendify Documentation
+Calenify Documentation
