@@ -1,1 +1,1 @@
-CalCapture Documentation
+Calendify Documentation
